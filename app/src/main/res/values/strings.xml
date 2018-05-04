@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PayuWebview</string>
+    <string name="hello_world">PayU Money Webview</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
